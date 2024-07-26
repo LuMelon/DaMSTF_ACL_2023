@@ -1,0 +1,2 @@
+Namespace(alpha=1.9, arch='resnet50', batch_size=28, bottleneck_dim=2048, center_crop=False, data='OfficeHome', early=30, epochs=30, iters_per_epoch=1000, log='logs/cst/OfficeHome_Pr2Rw', lr=0.005, lr_decay=0.75, lr_gamma=0.001, momentum=0.9, per_class_eval=False, phase='train', print_freq=100, rho=0.5, root='data/office-home', seed=None, source='Pr', target='Rw', temperature=2.5, threshold=0.97, trade_off=0.015, trade_off1=2.0, trade_off3=0.5, weight_decay=0.001, workers=2)
+Downloading image_list
